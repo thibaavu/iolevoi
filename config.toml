@@ -1,0 +1,56 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Io Levoi"
+theme = "mediumish"
+summaryLength = 25
+copyright = "Io Levoi - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "Io Levoi"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "/images/logo.png"
+  description ="To be an essayer means you write in order to understand something. The essays below share that experience with you, the reader. "
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Io Levoi"
+  thumbnail = "/images/logo.png"
+  description = "writer"
+
+[params.index]
+  picture = "/images/author.png"
+  title = "Io Levoi"
+  subtitle = "I'm a writer, essayer and educator."
+  mdtext = '''
+I think about creativity, knowledge management, learning and traveling like a 🐢.
+
+I am curious by nature, constantly seeking new knowledge. 
+
+I write about optimising education in formal settings and in general. I am fascinated by how we communicate both between humans and across time and space.
+
+I live in regional Victoria on the lands of the Dja Dja Warrung in a straw-bale house that I built and regularly travel in my converted Sprinter van named “Vincent Vango”.
+'''
+  alertbar = false
+
+[params.social]
+  github = "<username>"
+  linkedin = "<username>"
+  xing = "<username>"
+  medium = "<username>"
+  twitter = "@iolevoi"
+  instagram = "<username>"
+
+## Main Menu
+[[menu.main]]
+    name = "Essais"
+    weight = 100
+    identifier = "essais"
+    url = "/blog"
+[[menu.main]]
+    name = "Start Here"
+    identifier = "start"
+    weight = 200
+    url = "/"
+
