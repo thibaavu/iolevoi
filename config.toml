@@ -43,7 +43,7 @@ I live in regional Victoria on the lands of the Dja Dja Warrung in a straw-bale 
 [[menu.main]]
     name = "Essays"
     weight = 100
-    identifier = "essais"
+    identifier = "essays"
     url = "/blog"
 [[menu.main]]
     name = "Start Here"
