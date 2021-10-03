@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>climate change on Io Levoi</title>
+    <link>/tags/climate-change/</link>
+    <description>Recent content in climate change on Io Levoi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Io Levoi - All rights reserved</copyright>
+    <lastBuildDate>Mon, 27 Sep 2021 11:17:14 +0200</lastBuildDate><atom:link href="/tags/climate-change/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Unpregnant Generation</title>
+      <link>/blog/unpregnant/</link>
+      <pubDate>Mon, 27 Sep 2021 11:17:14 +0200</pubDate>
+      
+      <guid>/blog/unpregnant/</guid>
+      <description>What Hamlet can teach us about our response to Climate Change? Our reaction to the climate crisis is very Hamletesque. We know there needs to be action, and yet we do nothing of significance.</description>
+    </item>
+    
+  </channel>
+</rss>

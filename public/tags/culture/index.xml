@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>culture on Io Levoi</title>
+    <link>/tags/culture/</link>
+    <description>Recent content in culture on Io Levoi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Io Levoi - All rights reserved</copyright>
+    <lastBuildDate>Sat, 02 Oct 2021 11:17:14 +0200</lastBuildDate><atom:link href="/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nick Cave on Love</title>
+      <link>/blog/nick/</link>
+      <pubDate>Sat, 02 Oct 2021 11:17:14 +0200</pubDate>
+      
+      <guid>/blog/nick/</guid>
+      <description>“All beauty must die” Arthur Cave, the fifteen-year-old son of musician Nick Cave, accidentally fell from the 18-metre cliffs on Ovingdean Gap in Brighton, East Sussex in 2015.</description>
+    </item>
+    
+    <item>
+      <title>The Tall Poppy Syndrome</title>
+      <link>/blog/tall-poppy/</link>
+      <pubDate>Tue, 14 Sep 2021 11:17:14 +0200</pubDate>
+      
+      <guid>/blog/tall-poppy/</guid>
+      <description>What is the tall poppy syndrome? I&amp;rsquo;m yet to meet a fellow Aussie who would trade our sun-burnt land for the stars&amp;rsquo;n&amp;rsquo;stripes.
+Don&amp;rsquo;t get me wrong, we love yank culture.</description>
+    </item>
+    
+  </channel>
+</rss>
