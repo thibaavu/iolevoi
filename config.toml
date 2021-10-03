@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "iolevoi.com"
 languageCode = "en-us"
 title = "Io Levoi"
 theme = "mediumish"
@@ -35,12 +35,9 @@ I live in regional Victoria on the lands of the Dja Dja Warrung in a straw-bale 
   alertbar = false
 
 [params.social]
-  github = "<username>"
-  linkedin = "<username>"
-  xing = "<username>"
-  medium = "<username>"
+  medium = "@iolevoi"
   twitter = "@iolevoi"
-  instagram = "<username>"
+  instagram = "@iolevoi"
 
 ## Main Menu
 [[menu.main]]
